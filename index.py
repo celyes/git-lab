@@ -1,5 +1,5 @@
 print("Hello, World!")
-
+count = 10
 from exploit import title, description, severity, score
 
 print(f"Title: {title}")
